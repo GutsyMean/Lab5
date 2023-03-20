@@ -15,4 +15,9 @@ public class Book
 	{
 		return title;
 	}
+	
+	public double getPrice() 
+	{
+		return this.price;
+	}
 }
